@@ -86,7 +86,7 @@ Phronix processes personal data only where a lawful ground exists under Section 
 | Creating and maintaining your account; authenticating you on sign-in | Email address, Firebase UID, display name | Performance of the service contract — this processing is necessary to provide the app you have signed up to use (PDPA s.5(1)(b)) |
 | Synchronising your card list, saved offers, and preferences across devices | Card product names, saved offers, preferences | Performance of the service contract |
 | Delivering push notifications for offers you have saved or followed | FCM device token | Performance of the service contract; you may withdraw by disabling notifications at any time |
-| Improving the product through usage analytics | Anonymised event data, Firebase Instance ID | Legitimate interests in improving and maintaining the service (PDPA s.5(1)(f)); you may opt out at any time as described in Section 8 |
+| Improving the product through usage analytics | Pseudonymised event data, Firebase Instance ID | Legitimate interests in improving and maintaining the service (PDPA s.5(1)(f)); you may opt out at any time as described in Section 8 |
 | Responding to data subject rights requests and legal obligations | Any personal data held | Compliance with legal obligations under the PDPA (PDPA s.5(1)(c)) |
 
 We do not rely on consent as the lawful basis for account creation or core service delivery. Consent will be sought separately, clearly identified and easy to withdraw, only where an optional feature requires it.
