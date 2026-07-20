@@ -153,7 +153,7 @@ No third-party advertising, tracking, or analytics SDKs other than the Firebase 
 
 ### 7.1 Account deletion
 
-You can delete your account from **Profile → Delete account** in the app, or by emailing us at [code19111995@gmail.com](mailto:code19111995@gmail.com). We will action your request promptly and will remove your account and all directly associated personal data — including email address, display name, Firebase UID, card product list, saved offers, and FCM token — from our active database systems within **30 calendar days**.
+You can delete your account from **Profile → Delete account** in the app, or by emailing us at [athiththan.kathir@gmail.com](mailto:athiththan.kathir@gmail.com). We will action your request promptly and will remove your account and all directly associated personal data — including email address, display name, Firebase UID, card product list, saved offers, and FCM token — from our active database systems within **30 calendar days**.
 
 Encrypted system backups managed by Google Cloud may retain copies of deleted data for a further period before automated rotation removes them. This retention is governed by Google Cloud's backup practices and the data is inaccessible in production during this period. We have no mechanism to accelerate deletion from Google's infrastructure-level backups, but those backups are overwritten in the ordinary course of Google's operations.
 
@@ -170,7 +170,7 @@ Before any inactive account is deleted, we will send:
 - An **email** to the address registered with your account, at least **30 days** before the scheduled deletion date.
 - An **in-app push notification** (if notifications are enabled for Phronix on your device) at the same time.
 
-If you do not sign in within the 30-day notice period, the account and all associated personal data will be deleted. To prevent deletion, simply open the app and sign in before the date stated in the notice. If you no longer have access to your registered email address and miss the notice, contact us at [code19111995@gmail.com](mailto:code19111995@gmail.com) before deletion to discuss recovery options.
+If you do not sign in within the 30-day notice period, the account and all associated personal data will be deleted. To prevent deletion, simply open the app and sign in before the date stated in the notice. If you no longer have access to your registered email address and miss the notice, contact us at [athiththan.kathir@gmail.com](mailto:athiththan.kathir@gmail.com) before deletion to discuss recovery options.
 
 ---
 
@@ -203,15 +203,15 @@ You may ask us to restrict the active processing of your personal data in the fo
 - We no longer need the data but you need us to retain it for the establishment, exercise, or defence of a legal claim
 - You have objected to processing based on legitimate interests and a decision is pending
 
-During a restriction, we will retain your data but will not actively process it beyond storage, except with your consent or for legal purposes. To request a restriction, contact us at [code19111995@gmail.com](mailto:code19111995@gmail.com).
+During a restriction, we will retain your data but will not actively process it beyond storage, except with your consent or for legal purposes. To request a restriction, contact us at [athiththan.kathir@gmail.com](mailto:athiththan.kathir@gmail.com).
 
 ### 8.6 Right to withdraw consent
 
-Where any processing is based on your consent, you have the right to withdraw that consent at any time by using the relevant setting in the app (for example, disabling analytics in the Preferences screen) or by contacting us at [code19111995@gmail.com](mailto:code19111995@gmail.com). Withdrawal of consent does not affect the lawfulness of any processing carried out before withdrawal. Withdrawing consent for an optional feature does not affect your access to the core Phronix service.
+Where any processing is based on your consent, you have the right to withdraw that consent at any time by using the relevant setting in the app (for example, disabling analytics in the Preferences screen) or by contacting us at [athiththan.kathir@gmail.com](mailto:athiththan.kathir@gmail.com). Withdrawal of consent does not affect the lawfulness of any processing carried out before withdrawal. Withdrawing consent for an optional feature does not affect your access to the core Phronix service.
 
 ### 8.7 Right to lodge a complaint with the Data Protection Authority
 
-If you believe that Phronix is processing your personal data in a manner that does not comply with the Sri Lanka Personal Data Protection Act No. 9 of 2022, you have the right to lodge a complaint with the Data Protection Authority of Sri Lanka. Contact details and complaint procedures for the Authority are available through the Sri Lanka government's official portal. We encourage you to contact us first at [code19111995@gmail.com](mailto:code19111995@gmail.com) so that we can address your concern directly, but this does not affect your right to approach the Authority at any time.
+If you believe that Phronix is processing your personal data in a manner that does not comply with the Sri Lanka Personal Data Protection Act No. 9 of 2022, you have the right to lodge a complaint with the Data Protection Authority of Sri Lanka. Contact details and complaint procedures for the Authority are available through the Sri Lanka government's official portal. We encourage you to contact us first at [athiththan.kathir@gmail.com](mailto:athiththan.kathir@gmail.com) so that we can address your concern directly, but this does not affect your right to approach the Authority at any time.
 
 For users in the European Economic Area: you also have the right to lodge a complaint with the data protection supervisory authority in your member state.
 
@@ -226,13 +226,13 @@ You may object to processing of your personal data where that processing is base
 
 Deleting the Advertising ID prevents Firebase Analytics from associating events with a consistent advertising identifier. Note that the Firebase Instance ID (a per-installation identifier distinct from the Advertising ID) is still generated by the Firebase SDK itself.
 
-To request full suppression of your analytics data, contact us at [code19111995@gmail.com](mailto:code19111995@gmail.com) with the subject line "Analytics opt-out." We will implement the Firebase Analytics opt-out flag for your installation where technically feasible.
+To request full suppression of your analytics data, contact us at [athiththan.kathir@gmail.com](mailto:athiththan.kathir@gmail.com) with the subject line "Analytics opt-out." We will implement the Firebase Analytics opt-out flag for your installation where technically feasible.
 
-For objections to any other processing activity based on legitimate interests, contact us at [code19111995@gmail.com](mailto:code19111995@gmail.com). We will consider your objection and respond within 30 calendar days.
+For objections to any other processing activity based on legitimate interests, contact us at [athiththan.kathir@gmail.com](mailto:athiththan.kathir@gmail.com). We will consider your objection and respond within 30 calendar days.
 
 ### 8.9 How to exercise your rights
 
-Submit any request to [code19111995@gmail.com](mailto:code19111995@gmail.com). We will acknowledge your request within **5 business days** and provide a substantive response within **30 calendar days**. For complex or high-volume requests, we may extend this period by a further 30 days and will notify you of the extension before the initial deadline expires. No fee is charged for reasonable requests.
+Submit any request to [athiththan.kathir@gmail.com](mailto:athiththan.kathir@gmail.com). We will acknowledge your request within **5 business days** and provide a substantive response within **30 calendar days**. For complex or high-volume requests, we may extend this period by a further 30 days and will notify you of the extension before the initial deadline expires. No fee is charged for reasonable requests.
 
 ---
 
@@ -247,7 +247,7 @@ Submit any request to [code19111995@gmail.com](mailto:code19111995@gmail.com). W
 3. Notify affected users directly — by email and in-app notification — where the breach is likely to result in a high risk to their rights and freedoms. The notification will describe: what data was affected, the likely consequences, what steps we have taken, and what users can do to protect themselves.
 4. Maintain a written record of all breaches, including those that do not require external notification.
 
-If you discover or suspect a security vulnerability affecting Phronix, please report it to [code19111995@gmail.com](mailto:code19111995@gmail.com).
+If you discover or suspect a security vulnerability affecting Phronix, please report it to [athiththan.kathir@gmail.com](mailto:athiththan.kathir@gmail.com).
 
 ---
 
@@ -259,7 +259,7 @@ Phronix is intended exclusively for users **aged 18 and above**. Credit and debi
 
 **Minors discovered after registration:** If we become aware — through a report or other means — that a user is under 18, we will suspend and delete their account and all associated personal data as soon as practicable, and in any event within 30 calendar days.
 
-If you believe a minor has created an account, please notify us immediately at [code19111995@gmail.com](mailto:code19111995@gmail.com).
+If you believe a minor has created an account, please notify us immediately at [athiththan.kathir@gmail.com](mailto:athiththan.kathir@gmail.com).
 
 **COPPA notice:** Phronix is not directed at children under 13. We do not knowingly collect personal data from children under 13. If we discover that we have inadvertently collected data from a child under 13, we will delete it promptly. Phronix is not enrolled in Google Play's Designed for Families programme.
 
@@ -284,7 +284,7 @@ For changes that introduce new processing activities or materially alter your ri
 <div class="contact-box">
 <strong>Phronix — Privacy Enquiries</strong><br>
 Data Controller: Athiththan (individual developer, operating as Phronix — not a registered company)<br>
-Email: <a href="mailto:code19111995@gmail.com">code19111995@gmail.com</a><br>
+Email: <a href="mailto:athiththan.kathir@gmail.com">athiththan.kathir@gmail.com</a><br>
 Country: Sri Lanka<br>
 <br>
 Phronix is operated by an individual developer. No Data Protection Officer has been formally appointed; all privacy enquiries and data subject rights requests are handled directly by the developer. We respond to all privacy-related requests within <strong>30 calendar days</strong> of receipt.

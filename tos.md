@@ -59,7 +59,7 @@ You must sign in with a Google account to use Phronix. By doing so, you grant Ph
 
 ### 5.2 Account responsibility
 
-You are responsible for maintaining the security of your device and Google account. You agree to notify us immediately at [code19111995@gmail.com](mailto:code19111995@gmail.com) if you suspect unauthorised use of your account.
+You are responsible for maintaining the security of your device and Google account. You agree to notify us immediately at [athiththan.kathir@gmail.com](mailto:athiththan.kathir@gmail.com) if you suspect unauthorised use of your account.
 
 ### 5.3 Account termination
 
@@ -79,7 +79,7 @@ Phronix stores **only the name of the card product** you add (for example, "HNB 
 - One-time passwords (OTPs)
 - Transaction history or bank account balances
 
-Do not enter card credential data into Phronix under any circumstances. If any screen in the App appears to request such data, treat it as a security incident and contact us immediately at [code19111995@gmail.com](mailto:code19111995@gmail.com).
+Do not enter card credential data into Phronix under any circumstances. If any screen in the App appears to request such data, treat it as a security incident and contact us immediately at [athiththan.kathir@gmail.com](mailto:athiththan.kathir@gmail.com).
 
 ---
 
@@ -246,7 +246,7 @@ These Terms are governed by and construed in accordance with the laws of Sri Lan
 <div class="contact-box">
 <strong>Phronix — Terms of Service Enquiries</strong><br>
 Athiththan (individual developer, operating as Phronix — not a registered company)<br>
-Email: <a href="mailto:code19111995@gmail.com">code19111995@gmail.com</a><br>
+Email: <a href="mailto:athiththan.kathir@gmail.com">athiththan.kathir@gmail.com</a><br>
 Country: Sri Lanka<br>
 <br>
 For reports of suspected unauthorised account access or security incidents, we will acknowledge your report within <strong>2 business days</strong> and take reasonable steps to investigate promptly.<br>
